@@ -1,0 +1,14 @@
+body {
+    font-family: Mojangles;
+    text-align: center
+}
+
+@font-face {
+    font-family: Mojangles;
+    src: url('Mojangles.ttf');
+}
+
+a {
+    color: #66ccff;
+    text-decoration: none;
+}
